@@ -6,3 +6,6 @@
 /cropped2
 /empty_classes
 /train
+/dataset/train
+/dataset/valid
+/dataset/data.yaml
